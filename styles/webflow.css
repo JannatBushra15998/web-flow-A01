@@ -124,3 +124,55 @@ img{
     opacity: 0.5;
 }
 /* pro-user section done*/
+/* let's get in touch */
+.lets-get{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 92px;
+    align-items: center;
+}
+.lets-get-title{
+    font-size: 97px;
+    font-weight: bold;
+}
+.lets-column{
+    width: auto;
+}
+
+input{
+    width: 497px;
+    height: 70px;
+    padding: 0px 32px;
+    font-size: 20px;
+    font-weight: normal;
+    color: black;
+    opacity: 0.5;
+    border-radius: 10px;
+}
+
+.textarea{
+    width: 497px;
+    height: 135px;
+    padding: 20px 32px;
+    font-size: 20px;
+    font-weight:600;
+    color: black;
+    opacity: 0.5;
+    border-radius: 10px;
+}
+.btn-secondary{
+    width: 560px;
+    height: 62px;
+    background-color: #4E47FF;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    margin-top: 19px;
+    border-radius: 10px;
+    border: none;
+    padding: 19px 201px;
+}
+.left-column{
+    padding-top: 71px;
+    padding-bottom: 71px;
+}
